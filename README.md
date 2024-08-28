@@ -18,7 +18,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/Airshow.git
+git clone https:(https://github.com/Theayushkashyap/Airshow---Graphical-Simulation-Project-)
 cd Airshow
 Open the Project in Code::Blocks (optional):
 
